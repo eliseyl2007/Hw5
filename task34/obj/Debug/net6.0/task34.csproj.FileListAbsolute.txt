@@ -1,0 +1,16 @@
+C:\Examples\task34\bin\Debug\net6.0\task34.exe
+C:\Examples\task34\bin\Debug\net6.0\task34.deps.json
+C:\Examples\task34\bin\Debug\net6.0\task34.runtimeconfig.json
+C:\Examples\task34\bin\Debug\net6.0\task34.dll
+C:\Examples\task34\bin\Debug\net6.0\ref\task34.dll
+C:\Examples\task34\bin\Debug\net6.0\task34.pdb
+C:\Examples\task34\obj\Debug\net6.0\task34.GlobalUsings.g.cs
+C:\Examples\task34\obj\Debug\net6.0\task34.csproj.AssemblyReference.cache
+C:\Examples\task34\obj\Debug\net6.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task34\obj\Debug\net6.0\task34.AssemblyInfoInputs.cache
+C:\Examples\task34\obj\Debug\net6.0\task34.AssemblyInfo.cs
+C:\Examples\task34\obj\Debug\net6.0\task34.csproj.CoreCompileInputs.cache
+C:\Examples\task34\obj\Debug\net6.0\task34.dll
+C:\Examples\task34\obj\Debug\net6.0\ref\task34.dll
+C:\Examples\task34\obj\Debug\net6.0\task34.pdb
+C:\Examples\task34\obj\Debug\net6.0\task34.genruntimeconfig.cache
